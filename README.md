@@ -1,4 +1,3 @@
-## Bi_Team_9
 # Fake and Real News Predictor
 
 Do you know which sites are reporting the truth? Can you tell the difference
