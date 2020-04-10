@@ -11,3 +11,6 @@ potential to cause real world impacts, within minutes, for millions of users.
 
 We here, try to solve this issue of fake news through the concepts of machine
 learning by predicting if the content of information is real or fake.
+
+
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/Screenshot%20from%202020-04-10%2007-07-00.png)
