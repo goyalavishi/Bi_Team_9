@@ -12,27 +12,27 @@ potential to cause real world impacts, within minutes, for millions of users.
 We here, try to solve this issue of fake news through the concepts of machine
 learning by predicting if the content of information is real or fake.
 
-Fake News Preview :
+## Fake News Preview :
 
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/Screenshot%20from%202020-04-10%2007-07-00.png)
 
-True News Preview :
+## True News Preview :
 
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/true%20.png)
 
-Word Count Comparision In Title of News
+## Word Count Comparision In Title of News
 
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/wl_nt.png)
 
-Word Count Comparision In Content of News
+## Word Count Comparision In Content of News
 
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/wl_news.png)
 
-Stop Words Comparision In Title of News
+## Stop Words Comparision In Title of News
 
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/sw_nt.png)
 
-Stop Words Comparision In Content of News
+## Stop Words Comparision In Content of News
 
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/sw_news.png)
 
