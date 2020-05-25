@@ -1,6 +1,6 @@
 # Fake and Real News Predictor
 
-Do you know the new you read today morning was a fake one or true ? Can you find the difference between them ?
+Do you know the news you read today morning was a fake one or true ? Can you find the difference between them ?
 
 
 The authenticity of news has become a longstanding issue affecting
