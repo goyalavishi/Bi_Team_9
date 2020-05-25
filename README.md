@@ -15,43 +15,43 @@ learning by predicting if the content of information is real or fake.
 
 
 ### Section 3.1: Fake News Dataset 
-![alt_text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv
 
 ### Fake News Preview :
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/Screenshot%20from%202020-04-10%2007-07-00.png)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/Screenshot%20from%202020-04-10%2007-07-00.png
 
 ### True News Preview :
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/true%20.png)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/true%20.png
 
 ### Word Count Comparision In Title of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/wl_nt.png)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_news.png
 
 ### Word Count Comparision In Content of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/wl_news.png)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_nt.png
 
 ### Stop Words Comparision In Title of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/sw_nt.png)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_nt.png
 
 ### Stop Words Comparision In Content of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/sw_news.png)
-
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_news.png
 
 
 ### Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
+
 #### Tokenisation 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Code/DataPreProcessing)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/DataPreProcessing/preprocessing.ipynb
 
 #### Sentimental Analysis in SentimentalAnalysis.ipynb
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Code/SentimentAnalysis
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/SentimentAnalysis/SentimentAnalysis.ipynb
 
 
 ### Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Code/NaiveBayes
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/NaiveBayes/XGB%2C%20RF%2C%20NB%20without%20stematization%20and%20Lemmatization.ipynb
 
 
