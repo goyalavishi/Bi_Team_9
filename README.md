@@ -1,4 +1,4 @@
-#H1 Fake and Real News Predictor
+# Fake and Real News Predictor
 
 Do you know the news you read today morning was a fake one or true ? Can you find the difference between them ?
 
@@ -13,10 +13,14 @@ We here, try to solve this issue of fake news through the concepts of machine
 learning by predicting if the content of information is real or fake.
 
 
-The dataset files:
+## The dataset files:
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Data
 
-Section 3: Data visualisation , Preprocessing is implemented in
+## Section 3: Data visualisation , Preprocessing can be found in preprocessing.ipynb
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Code/DataPreProcessing
+
+
+
 
 
 
