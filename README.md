@@ -11,3 +11,8 @@ potential to cause real world impacts, within minutes, for millions of users.
 
 We here, try to solve this issue of fake news through the concepts of machine
 learning by predicting if the content of information is real or fake.
+
+
+The dataset files can be found in the Data Folder:
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Data
+
