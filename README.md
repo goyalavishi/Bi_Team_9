@@ -1,7 +1,7 @@
 # Fake and Real News Predictor
 
-Do you know which sites are reporting the truth? Can you tell the difference
-between real and fake information?
+Do you know the news you read today morning was a fake one or true ? Can you find the difference between them ?
+
 
 The authenticity of news has become a longstanding issue affecting
 businesses and society, both for printed and digital media. On social networks,
