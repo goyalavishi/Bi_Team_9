@@ -13,11 +13,21 @@ We here, try to solve this issue of fake news through the concepts of machine
 learning by predicting if the content of information is real or fake.
 
 
-## The dataset files:
+## Section 3.1: dataset files 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Data
 
-## Section 3: Data visualisation , Preprocessing can be found in preprocessing.ipynb
+## Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
+### Tokenisation 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Code/DataPreProcessing
+
+### Sentimental Analysis in SentimentalAnalysis.ipynb
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Code/SentimentAnalysis
+
+
+## Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/Code/NaiveBayes
+
+
 
 
 
