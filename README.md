@@ -17,27 +17,27 @@ learning by predicting if the content of information is real or fake.
 ### Section 3.1: Fake News Dataset 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv
 
-### Fake News Preview :
+#### Fake News Preview :
 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/fakenewspreview.png
 
-### True News Preview :
+#### True News Preview :
 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png
 
-### Word Count Comparision In Title of News
+#### Word Count Comparision In Title of News
 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_news.png
 
-### Word Count Comparision In Content of News
+#### Word Count Comparision In Content of News
 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_nt.png
 
-### Stop Words Comparision In Title of News
+#### Stop Words Comparision In Title of News
 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_nt.png
 
-### Stop Words Comparision In Content of News
+#### Stop Words Comparision In Content of News
 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_news.png
 
