@@ -19,8 +19,7 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fak
 
 ### Fake News Preview :
 
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/Screenshot%20from%202020-04-10%2007-07-00.png
-
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/fakenewspreview.png
 ### True News Preview :
 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/true%20.png
