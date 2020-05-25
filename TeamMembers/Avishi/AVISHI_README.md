@@ -14,25 +14,25 @@ learning by predicting if the content of information is real or fake.
 
 ### Fake News Preview :
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/Screenshot%20from%202020-04-10%2007-07-00.png)
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/TeamMembers/Avishi/img/Screenshot%20from%202020-04-10%2007-07-00.png)
 
 ### True News Preview :
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/true%20.png)
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/TeamMembers/Avishi/img/true%20.png)
 
 ### Word Count Comparision In Title of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/wl_nt.png)
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/TeamMembers/Avishi/img/wl_nt.png)
 
 ### Word Count Comparision In Content of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/wl_news.png)
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/TeamMembers/Avishi/img/wl_news.png)
 
 ### Stop Words Comparision In Title of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/sw_nt.png)
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/TeamMembers/Avishi/img/sw_nt.png)
 
 ### Stop Words Comparision In Content of News
 
-![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Avishi/img/sw_news.png)
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/tree/master/TeamMembers/Avishi/img/sw_news.png)
 
