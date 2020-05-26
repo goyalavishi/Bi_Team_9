@@ -59,6 +59,6 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Ima
 ## Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/NaiveBayes/XGB%2C%20RF%2C%20NB%20without%20stematization%20and%20Lemmatization.ipynb
 
-## Result :
-
+## Final Result :
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/FinalResult.jpeg
 
