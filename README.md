@@ -14,7 +14,14 @@ The repositories include:
 3. Report - Overleaf Report 
 4. Team Members - separate repositories for team members
 
-Link to Kaggle Dataset: 
+Link to Kaggle Dataset:
+#### https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+
+Number of instances:  17903 Fake News + 20826 True News	
+Number of attributes: 4
+Whether labeled or unlabeled: labeled 
+Type of label information (if present): categorical
+
 
 ### Section 3.1: Fake News Dataset 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv
