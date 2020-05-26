@@ -27,37 +27,35 @@ Type of label information (if present): categorical
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv
 
 #### Fake News Preview :
-
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/fakenewspreview.png
 
 #### True News Preview :
-
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png
 
-#### Word Count Comparision In Title of News
+### Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
+#### Word Count Comparision In Title of News
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_news.png
 
 #### Word Count Comparision In Content of News
-
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_nt.png
 
 #### Stop Words Comparision In Title of News
-
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_nt.png
 
 #### Stop Words Comparision In Content of News
-
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_news.png
-
-
-### Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
 #### Tokenisation 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/DataPreProcessing/preprocessing.ipynb
 
 #### Sentimental Analysis in SentimentalAnalysis.ipynb
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/SentimentAnalysis/SentimentAnalysis.ipynb
+
+#### Length of Characters in a news
+
+
+
 
 
 ### Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
