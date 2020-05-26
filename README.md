@@ -62,7 +62,7 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/Sen
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/GrammarCheck/news3.ipynb
 
 #### Length of Characters in a news
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/LengthofChars.jpeg
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/LengthofChars.jpeg)
 
 
 ## Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
