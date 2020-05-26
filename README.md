@@ -17,9 +17,12 @@ The repositories include:
 ## Link to Kaggle Dataset:
 #### https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
-Number of instances:  17903 Fake News + 20826 True News	
+Number of instances:  17903 Fake News + 20826 True News
+
 Number of attributes: 4
-Whether labeled or unlabeled: labeled 
+
+Whether labeled or unlabeled: labeled
+
 Type of label information (if present): categorical
 
 
@@ -31,6 +34,9 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fak
 
 #### True News Preview :
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png)
+
+#### Proposed Methodology :
+![alt_text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/ProposedMethodology.jpeg)
 
 ## Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
