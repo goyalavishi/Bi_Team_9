@@ -35,6 +35,9 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fak
 #### True News Preview :
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png)
 
+#### Proposed Methodology :
+![alt_text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/ProposedMethodology.jpeg)
+
 ## Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
 #### Word Count Comparision In Title of News
