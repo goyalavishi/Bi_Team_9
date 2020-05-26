@@ -17,10 +17,10 @@ The repositories include:
 ## Link to Kaggle Dataset:
 #### https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
-Number of instances:  17903 Fake News + 20826 True News	
-Number of attributes: 4
-Whether labeled or unlabeled: labeled 
-Type of label information (if present): categorical
+i.   Number of instances:  17903 Fake News + 20826 True News
+ii.  Number of attributes: 4
+iii. Whether labeled or unlabeled: labeled
+iv.  Type of label information (if present): categorical
 
 
 ## Section 3.1: Fake News Dataset 
