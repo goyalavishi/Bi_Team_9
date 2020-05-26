@@ -35,9 +35,6 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fak
 #### True News Preview :
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png)
 
-#### Proposed Methodology :
-![alt_text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/ProposedMethodology.jpeg)
-
 ## Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
 #### Word Count Comparision In Text Content of News
@@ -69,6 +66,10 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/Gra
 
 #### Length of Characters in a news
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/LengthofChars.jpeg)
+
+
+#### Proposed Methodology :
+![alt_text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/ProposedMethodology.jpeg)
 
 
 ## Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
