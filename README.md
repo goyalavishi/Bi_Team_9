@@ -3,16 +3,18 @@
 Do you know the news you read today morning was a fake one or true ?
 Can you find the difference between them ?
 
-
-The authenticity of news has become a longstanding issue affecting
-businesses and society, both for printed and digital media. On social networks,
-the reach and effects of news spread occur at such a fast pace and so
-amplified that distorted, inaccurate or false news acquires a tremendous
-potential to cause real world impacts, within minutes, for millions of users.
-
 We here, try to solve this issue of fake news through the concepts of machine
 learning by predicting if the content of information is real or fake.
 
+#### Team Members : Avishi Goyal , Medha Gulati , Shivangi Mishra , Pooja Garg
+
+The repositories include:
+1. Code - separate repositories for each algorithm 
+2. Data - Datasets and graph images 
+3. Report - Overleaf Report 
+4. Team Members - separate repositories for team members
+
+Link to Kaggle Dataset: 
 
 ### Section 3.1: Fake News Dataset 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv
