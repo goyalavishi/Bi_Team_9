@@ -78,3 +78,6 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/Nai
 ## Final Result :
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/FinalResult.jpeg)
 
+
+# OVERLEAF DOCUMENT
+https://www.overleaf.com/8941899816hbnfyxwpdzrq
