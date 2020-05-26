@@ -46,11 +46,20 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/Wor
 #### Stop Words Comparision In Content of News
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_news.png
 
-#### Tokenisation 
+### Tokenisation -> preprocessing.ipynb 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/DataPreProcessing/preprocessing.ipynb
 
-#### Sentimental Analysis in SentimentalAnalysis.ipynb
+### Sentimental Analysis -> SentimentalAnalysis.ipynb
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/SentimentAnalysis/SentimentAnalysis.ipynb
+
+#### Sentiments in Fake News 
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/FakeNewsgraph.jpeg
+
+#### Sentiments in True News
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/TrueNewsgraph.jpeg
+
+### Length of Characters -> news3.ipynb
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/GrammarCheck/news3.ipynb
 
 #### Length of Characters in a news
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/LengthofChars.jpeg
