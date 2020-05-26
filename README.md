@@ -14,7 +14,7 @@ The repositories include:
 3. Report - Overleaf Report 
 4. Team Members - separate repositories for team members
 
-Link to Kaggle Dataset:
+## Link to Kaggle Dataset:
 #### https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
 Number of instances:  17903 Fake News + 20826 True News	
@@ -23,7 +23,7 @@ Whether labeled or unlabeled: labeled
 Type of label information (if present): categorical
 
 
-### Section 3.1: Fake News Dataset 
+## Section 3.1: Fake News Dataset 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv
 
 #### Fake News Preview :
@@ -32,7 +32,7 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/fak
 #### True News Preview :
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png
 
-### Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
+## Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
 #### Word Count Comparision In Title of News
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_news.png
@@ -53,12 +53,12 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/Dat
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/SentimentAnalysis/SentimentAnalysis.ipynb
 
 #### Length of Characters in a news
+https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/LengthofChars.jpeg
 
 
-
-
-
-### Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
+## Section 4.1.1: Multinomial NB and Random Forest can be found in file (XGB, RF, NB without stematization and Lemmatization.ipynb)
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/NaiveBayes/XGB%2C%20RF%2C%20NB%20without%20stematization%20and%20Lemmatization.ipynb
+
+## Result :
 
 
