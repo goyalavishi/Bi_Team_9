@@ -27,24 +27,24 @@ Type of label information (if present): categorical
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fake.csv
 
 #### Fake News Preview :
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/fakenewspreview.png
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/fakenewspreview.png)
 
 #### True News Preview :
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/truenewspreview.png)
 
 ## Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
 #### Word Count Comparision In Title of News
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_news.png
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_news.png)
 
 #### Word Count Comparision In Content of News
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_nt.png
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_nt.png)
 
 #### Stop Words Comparision In Title of News
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_nt.png
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_nt.png)
 
 #### Stop Words Comparision In Content of News
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_news.png
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/sw_news.png)
 
 ### Tokenisation -> preprocessing.ipynb 
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/DataPreProcessing/preprocessing.ipynb
@@ -53,10 +53,10 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/Dat
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/SentimentAnalysis/SentimentAnalysis.ipynb
 
 #### Sentiments in Fake News 
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/FakeNewsgraph.jpeg
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/FakeNewsgraph.jpeg)
 
 #### Sentiments in True News
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/TrueNewsgraph.jpeg
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/TrueNewsgraph.jpeg)
 
 ### Length of Characters -> news3.ipynb
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/GrammarCheck/news3.ipynb
@@ -69,5 +69,5 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Ima
 https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/NaiveBayes/XGB%2C%20RF%2C%20NB%20without%20stematization%20and%20Lemmatization.ipynb
 
 ## Final Result :
-https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/FinalResult.jpeg
+![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Images/FinalResult.jpeg)
 
