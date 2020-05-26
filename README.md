@@ -40,10 +40,10 @@ https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Data/Fak
 
 ## Section 3.2: Data visualisation , Preprocessing can be found in file (preprocessing.ipynb)
 
-#### Word Count Comparision In Title of News
+#### Word Count Comparision In Text Content of News
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_news.png)
 
-#### Word Count Comparision In Content of News
+#### Word Count Comparision In Title of News
 ![alt text](https://github.com/goyalavishi/Fake-and-Real-News-Predictor/blob/master/Code/WordCount/wl_nt.png)
 
 #### Stop Words Comparision In Title of News
